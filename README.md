@@ -1,4 +1,4 @@
-# [View the Map of Kenya here](https://gathuh.github.io/CENSUS-2020-MODEL/)# Population Density Heatmap Project
+# [View the Population Density Heatmap Project](https://gathuh.github.io/CENSUS-2020-MODEL/)
 
 ## Overview
 
